@@ -62,16 +62,6 @@ This SOP outlines the steps to create a virtual machine for Active Directory usi
 
 - Once the instance is running, proceed to connect to it using the appropriate remote desktop protocol.
 
-### Cautionary Notes
 
-- Ensure you have the necessary permissions to create instances in AWS.
-- Double-check the instance type and key pair selection to avoid performance issues or access problems.
 
-### Tips for Efficiency
-
-- Use a consistent naming convention for your instances to easily identify them later.
-- Regularly monitor your instance performance to adjust resources as needed.
-
-### Link to Loom
-
-<https://loom.com/share/7a6bffebc8334282aa96a81c39f59b3f>
+Successfull Created!

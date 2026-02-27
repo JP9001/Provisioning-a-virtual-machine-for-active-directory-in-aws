@@ -64,4 +64,4 @@ This SOP outlines the steps to create a virtual machine for Active Directory usi
 
 
 
-Successfull Created!
+Successfully Created!

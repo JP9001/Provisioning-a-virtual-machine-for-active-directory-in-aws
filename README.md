@@ -10,7 +10,8 @@ This SOP outlines the steps to create a virtual machine for Active Directory usi
 
 **Step 1: Launch Instance** [0:02](https://loom.com/share/7a6bffebc8334282aa96a81c39f59b3f?t=2)
 
-![generated-image-at-00:00:02](https://loom.com/i/92335051d2a24c3fa15e0829905e0972?workflows_screenshot=true)
+![launch instances](https://github.com/user-attachments/assets/44b5d851-5846-41d6-b253-ada3cc80ea52)
+
 
 - Log in to your AWS Management Console.
 - Navigate to the EC2 Dashboard.
@@ -18,40 +19,46 @@ This SOP outlines the steps to create a virtual machine for Active Directory usi
 
 **Step 2: Select Windows for Quick Start** [0:02](https://loom.com/share/7a6bffebc8334282aa96a81c39f59b3f?t=2)
 
-![generated-image-at-00:00:02](https://loom.com/i/92335051d2a24c3fa15e0829905e0972?workflows_screenshot=true)
+![windows launch](https://github.com/user-attachments/assets/7d097740-1bf4-4a13-8640-ade186481f3d)
+
 
 - In the instance creation wizard, select 'Windows' as the operating system for the Quick Start.
 
 **Step 3: Choose Instance Type** [0:32](https://loom.com/share/7a6bffebc8334282aa96a81c39f59b3f?t=32)
 
-![generated-image-at-00:00:32](https://loom.com/i/6d82bec6f98245d9bda76c6bebbd8b15?workflows_screenshot=true)
+![choose instance type](https://github.com/user-attachments/assets/8167cc82-9be3-4882-afca-9c79175793c6)
+
 
 - Scroll down to the 'Instance Type' section.
 - Select 't3.2xlarge' (16 GB memory) to ensure optimal performance.
 
 **Step 4: Configure Key Pair** [1:01](https://loom.com/share/7a6bffebc8334282aa96a81c39f59b3f?t=61)
 
-![generated-image-at-00:01:01](https://loom.com/i/32ab4a9d3d25424d8ad486623ad01fa1?workflows_screenshot=true)
+![configure keypair](https://github.com/user-attachments/assets/a792ad9c-ea25-441d-98b4-1fcb5ddd0dc3)
+
 
 - In the 'Key Pair' section, select 'Windows Test' to encrypt your password.
 
 **Step 5: Launch the Instance** [1:10](https://loom.com/share/7a6bffebc8334282aa96a81c39f59b3f?t=70)
 
-![generated-image-at-00:01:10](https://loom.com/i/c0692095ead349cb928d79341e47a171?workflows_screenshot=true)
+![launch the instance](https://github.com/user-attachments/assets/de2500f0-8072-44fb-a101-cc03c1b6a074)
+
 
 - Scroll down and review the settings.
 - Click on 'Launch Instance' to initiate the creation process.
 
 **Step 6: Verify Instance Status** [1:35](https://loom.com/share/7a6bffebc8334282aa96a81c39f59b3f?t=95)
 
-![generated-image-at-00:01:35](https://loom.com/i/acde3eade4fb46b4911c4fc338ee6301?workflows_screenshot=true)
+![verify instance status](https://github.com/user-attachments/assets/e8881378-725b-480c-99fc-a0571588dcf5)
+
 
 - Wait for a few moments for the instance to launch.
 - Ensure the instance status shows 'running' and that all connections are established.
 
 **Step 7: Connect to the Instance** [1:35](https://loom.com/share/7a6bffebc8334282aa96a81c39f59b3f?t=95)
 
-![generated-image-at-00:01:35](https://loom.com/i/acde3eade4fb46b4911c4fc338ee6301?workflows_screenshot=true)
+![connect the instance](https://github.com/user-attachments/assets/fc014659-87f1-4b60-b827-20d4626daa99)
+
 
 - Once the instance is running, proceed to connect to it using the appropriate remote desktop protocol.
 
